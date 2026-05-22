@@ -1,0 +1,7 @@
+interface:
+  display_name: "Build Vocabulary CSV"
+  short_description: "Build generic language-learning CSVs."
+  default_prompt: "Use $build-vocabulary-csv to create or migrate a language-learning vocabulary CSV."
+
+policy:
+  allow_implicit_invocation: true
